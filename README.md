@@ -1,1 +1,1 @@
-# Iqalugaaruup-Nunanga-Lichens
+This directory contains the list of lichen and allied fungi taxa collected and identified by R. Troy McMullin, Alan M. Fryday, Jessica L. Allen, and Paul C. Sokoloff in and around Iqalugaaruup Nunanga Territorial Park, Rankin Inlet, Nunavut​, Canada in July 2023.  The 232 taxa listed here are based on specimens at the National Herbarium of Canada, Canadian Museum of Nature (CAN), Michigan State University (MSC), and Eastern Washington University (EWU).
